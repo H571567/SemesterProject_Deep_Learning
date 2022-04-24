@@ -21,6 +21,9 @@ In this project I will try the learn the technologies in Deep Learning and creat
 * https://swfscdata.nmfs.noaa.gov/labeled-fishes-in-the-wild/
 * https://www.kaggle.com/sripaadsrinivasan/fish-species-image-data
 
+### Notes
+* https://walkwithfastai.com/Segmentation
+
 ## Blog
 Here I will write down the progress I do weeks for weeks starting from week 11.
 
