@@ -2,6 +2,11 @@
 
 In this task I have created 3 notebooks. One about fish classification, fish segmentation and one about marine fouling.
 
+Links that helped me:
+* https://walkwithfastai.com/Segmentation
+* https://towardsdatascience.com/image-segmentation-with-fastai-9f8883cc5b53
+* https://github.com/fastai/fastbook
+
 ## Marine fouling
 
 This is from one of the mini-project I did. In this notebook I first mounted my google drive to retrieve the dataset. After that I used ImageDataLoaders.from_folder() to create the dls. After doing some training with Resnet34 I already got a high accuracy at 91% and stop training. In the end of the project I used cofusion_matrix to get an overview over Actual/Predicted.
