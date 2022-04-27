@@ -9,6 +9,8 @@ Links that helped me:
 
 ## Marine fouling
 
+When I first this project I had the dataset in a folder in my google drive. Either use this method or zip like in thw two others.
+
 This is from one of the mini-project I did. In this notebook I first mounted my google drive to retrieve the dataset. After that I used ImageDataLoaders.from_folder() to create the dls. After doing some training with Resnet34 I already got a high accuracy at 91% and stop training. In the end of the project I used cofusion_matrix to get an overview over Actual/Predicted.
 
 After that I exported the model and tested it with widgets in the app notebook of the project.
