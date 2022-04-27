@@ -15,6 +15,8 @@ After that I exported the model and tested it with widgets in the app notebook o
 
 ## Fish classification
 
+To run this project you have retrieve classification.zip from example google drive
+
 In this part I wanted to create a fish classifier. With the dataset I had many folders with subfolders like "empty" (no fish) and "valid" (fish), and there ws also a CSV file. 
 
 I first played a bit with the CSV file and got an overview over the attributes on the objects. Before I created a datablock I created the methods get_x() which returned the ID of the object, get_y() which returned the class of the object, and splitter which splitted the dataset in a training and a validation set. At this point I failed my attempt. The main problem was the dataset. What happened was that when I created the model and tried to train it, I got errors about files not existing which did not make sense to me since it did in fact exist in both the CSV file and in the path.
@@ -26,6 +28,8 @@ The problem continued in training the model. There was no errors, but after runn
 Even tho the results were great, this was a failed attempt.
 
 ## Fish segmentation
+
+To run this project you have retrieve Segmantation.zip from example google drive
 
 Did not finish it.
 
