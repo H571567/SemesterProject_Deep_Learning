@@ -1,6 +1,6 @@
 # Subsea imaging in fishing and shipping
 
-In this task I have created 3 notebooks. One about fish classification, fish segmentation and one about marine fouling.
+In this task I created 3 notebooks. One about fish classification, fish segmentation and one about marine fouling.
 
 Links that helped me:
 * https://walkwithfastai.com/Segmentation
