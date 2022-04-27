@@ -2,6 +2,9 @@
 
 In this task I created 3 notebooks. One about fish classification, fish segmentation and one about marine fouling.
 
+Link to the datasets and trained models:
+* https://drive.google.com/drive/folders/1RKkmM1h0tRuDznmGwJA2kU1_1orjn5pT?usp=sharing
+
 Links that helped me:
 * https://walkwithfastai.com/Segmentation
 * https://towardsdatascience.com/image-segmentation-with-fastai-9f8883cc5b53
